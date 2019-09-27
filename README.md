@@ -29,3 +29,7 @@ No qual ele imprime se a entrada foi aceita ou não e retorna o último estado.
 Um outro método que pode ser chamado nessa estrutura de autômato é o estados_equivalentes(),
 que retorna todos os estados equivalentes e os não equivalentes.
 Ex: afd.estados_equivalentes()
+
+Autores:
+Leonardo Machado Leite
+Ana Carla Gomes da Silva
